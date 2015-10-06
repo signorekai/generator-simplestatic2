@@ -7,10 +7,10 @@
       deps.push('\n    "reset-css": "~2.0.20110126"');
     }
     if (includeNeat) {
-      deps.push('\n    "neat": "~1.7.0"');
+      deps.push('\n    "neat": "~1.7.2"');
     }
     if (includeFontAwesome) {
-      deps.push('\n    "fontawesome": "~4.2.0"');
+      deps.push('\n    "fontawesome": "~4.4.0"');
     }
     print(deps.join(','));
     %>
