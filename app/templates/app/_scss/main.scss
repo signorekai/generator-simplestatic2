@@ -1,7 +1,7 @@
 @import "_variables";
 @import "_fonts";
 
-<% if (includeNeat) { %>@import "../_bower_components/bourbon/app/assets/_bourbon.scss";
+<% if (includeNeat) { %>@import "../_bower_components/bourbon/app/assets/stylesheets/_bourbon.scss";
 @import "../_bower_components/neat/app/assets/stylesheets/_neat.scss";<% } %>
 
 @import "_utils/_utils";
