@@ -1,12 +1,12 @@
 {
-  "name": "generator-simplestatic",
-  "version": "0.0.1",
-  "description": "A highly opinionated Yeoman generator for static websites using SASS and Jekyll",
+  "name": "generator-simplestatic2",
+  "version": "0.0.2",
+  "description": "A highly opinionated Yeoman generator for static websites using SASS and Jekyll, forked from Patrick Birkholz's original to keep updated with Bourbon and others",
   "keywords": ["yeoman-generator", "jekyll", "sass", "scss", "fontawesome", "bourbon", "neat", "reset-css", "browsersync", "autoprefixer"],
-  "author": "Patrick Birkholz <mail@patrickbirkholz.net>",
+  "author": "Alfred Lau <me@signorekai.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pbirkholz/generator-simplestatic"
+    "url": "https://github.com/signorekai/generator-simplestatic2.git"
   },
   "dependencies": {
     "chalk": "^0.5.1",
